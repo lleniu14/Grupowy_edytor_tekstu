@@ -1,0 +1,157 @@
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\App.g.cs
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\MainWindow.baml
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\MainWindow.g.cs
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\ListofDoc.g.cs
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+C:\Users\pwale\source\repos\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\ListofDoc.baml
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\MainWindow.baml
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\ListofDoc.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\MainWindow.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\App.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\ListofDoc.baml
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Editors.baml
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\LoginScreen.baml
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Editors.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\ZDARZENIÓWKA\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\LoginScreen.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.baml
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.baml
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\App.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.baml
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.baml
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.baml
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.g.cs
+C:\Users\pwale\Desktop\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\App.g.cs
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.baml
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+D:\WAT\Semestr 5\Zdarzeniowka\DORoboty\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDDoc.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\App.g.cs
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDDoc.baml
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\pwale\Desktop\PoukladanyKOd\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe.config
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RealTimeRTBEditor_Client.pdb
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csprojAssemblyReference.cache
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Editors.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDDoc.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\LoginScreen.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\App.g.cs
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.cache
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client_MarkupCompile.lref
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\DocumentName.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDDoc.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\Tab.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\ListofDoc.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\Views\TextEditor.baml
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.g.resources
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.Properties.Resources.resources
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.GenerateResource.cache
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CoreCompileInputs.cache
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.csproj.CopyComplete
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.exe
+C:\Users\Msi\Desktop\Grupowy_edytor_tresci-master\RealTimeRTBEditor_Client\RealTimeRTBEditor_Client\obj\Debug\RealTimeRTBEditor_Client.pdb
